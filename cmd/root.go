@@ -35,7 +35,7 @@ var cfgFile string
 var rootCmd = &cobra.Command{
 	Use:   "beacon",
 	Short: "Create releases on Git hosting platforms.",
-	Long: `A long description TODO`,
+	Long: `TODO`,
 	// Uncomment the following line if your bare application
 	// has an action associated with it:
 	// Run: func(cmd *cobra.Command, args []string) { },
